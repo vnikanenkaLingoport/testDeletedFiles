@@ -1,0 +1,31 @@
+{
+    "test": "test by Viktar",
+    "array": [
+        {
+            "element1": "First Element"
+        },
+        {
+            "element21": "Second Element1",
+            "element22": "Second Element2",
+            "element3": [
+                {
+                    "element31": "Third element",
+                    "element32": "Another third element",
+                    "element33": [
+                        {
+                            "array": [
+                                {
+                                    "element331": "IDK what is it element",
+                                    "element332": "This element is just 332 ha-ha"
+                                }
+                            ]
+                        },
+                        {
+                            "element333": "Just a text"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
